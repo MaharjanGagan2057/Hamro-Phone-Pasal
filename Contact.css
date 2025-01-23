@@ -1,0 +1,58 @@
+
+
+header {  
+    margin: 0%;
+    text-align: center;  
+    padding: 30px;  
+    background-color: #f3559c; /* Dark pink header */  
+    color: white;  
+}
+
+
+body {  
+    font-family: Arial, sans-serif;  
+    background-color: #f7e1f7; /* Pink background */  
+    margin: 0;  
+    padding: 0; 
+    height: 100vh;
+}  
+
+
+footer {  
+    text-align: center;  
+    padding: 10px;  
+    background-color:#f44996; /* Same dark pink footer */  
+    color: white;  
+    bottom: 0;
+    position:  ;
+    width: 100%;
+}    
+h1{
+
+    text-align: center;
+}
+
+img{
+    
+    width:100%;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.contact1{
+    background-color: rgb(156, 242, 242);
+    height: 100vh;
+    margin:0;
+
+}
+.contact2{
+    background-color: rgb(164, 244, 217);
+    height: 100vh;
+    margin: 0;
+}  
