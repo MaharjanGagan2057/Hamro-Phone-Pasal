@@ -8,9 +8,19 @@ header {
     color: white;  
 }
 
-body {  
+nav{
+    text-align: center;
+}
+body{  
     font-family: Arial, sans-serif;  
-    background-color: #f7e1f7; /* Pink background */  
+    background-color:#f7e1f7; /* Pink background */  
     margin: 0;  
     padding: 0; 
 }  
+
+.form{
+    height: 50vh;
+    background-color: #f664a6;
+    
+    
+}
